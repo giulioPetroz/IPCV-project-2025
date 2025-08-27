@@ -1,9 +1,0 @@
-- approaches:
-  - SIFT matching
-  - CJG shape-based matching
-    - book segmentation
-      - detect book shapes (i.e. rectangles) using Hough
-    - shape-based matching between model and detected rectangles
-      - edge detection on model
-      - edge detection on rectangle
-      - compute similarity (set appropriate threshold)
